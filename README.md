@@ -22,7 +22,6 @@ I am consistently solving problems to:
 ## 🎯 Goals
 
 * ✅ Solve **150+ DSA problems** in 3 months
-* ✅ Maintain **daily consistency (#NoZeroDays)**
 * ✅ Improve logical thinking and coding skills
 * ✅ Participate in coding contests
 
