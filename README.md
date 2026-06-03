@@ -40,7 +40,7 @@ I am consistently solving problems to:
 
 ## 📅 Progress Tracker
 
-* 📍 **Start Date:** 25 March 2026
+
 * 🔥 **Current Focus:** Building strong fundamentals
 * 📈 **Status:** Active and consistent
 
